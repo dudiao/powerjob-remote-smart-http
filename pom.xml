@@ -56,6 +56,26 @@
         </dependency>
     </dependencies>
 
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>dudiao</name>
+            <email>idudiao@gmail.com</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/dudiao/powerjob-remote-smart-http</url>
+        <connection>https://github.com/dudiao/powerjob-remote-smart-http.git</connection>
+        <developerConnection>https://github.com/dudiao/powerjob-remote-smart-http.git</developerConnection>
+    </scm>
+
     <profiles>
         <!-- 发布到中央仓库，需要使用 mvn xxx -Prelease 启用 -->
         <profile>
