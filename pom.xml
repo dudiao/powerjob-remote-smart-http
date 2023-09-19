@@ -8,6 +8,7 @@
     <version>0.0.3</version>
     <name>powerjob-remote-smart-http</name>
     <description>powerjob-remote-smart-http</description>
+    <url>https://github.com/dudiao/powerjob-remote-smart-http</url>
 
     <properties>
         <powerjob.version>4.3.6</powerjob.version>
