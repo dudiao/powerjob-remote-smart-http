@@ -25,3 +25,14 @@
 </p>
 
 <hr />
+
+## 使用
+PowerJob 默认 http 协议实现，是基于 vertx 实现的，可以先排除`powerjob-remote-impl-http`，然后在引入`powerjob-remote-smart-http`即可。
+
+```xml
+<dependency>
+    <groupId>io.github.dudiao</groupId>
+    <artifactId>powerjob-remote-smart-http</artifactId>
+    <version>0.0.4</version>
+</dependency>
+```
